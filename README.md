@@ -2,6 +2,12 @@
 
 A simple fruits app written in PHP
 
+- [PHP Fruits](#php-fruits)
+  - [Requirements](#requirements)
+  - [Development](#development)
+  - [Showcase](#showcase)
+
+
 ## Requirements
 
 - PHP 7.1
@@ -12,3 +18,7 @@ A simple fruits app written in PHP
 ```bash
 ./run.sh
 ```
+
+## Showcase
+
+![Home](./screenshots/home.png)

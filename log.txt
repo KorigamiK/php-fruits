@@ -15,3 +15,6 @@ Logger destroyed
 Logger created
 Opened database successfully
 Logger destroyed
+Logger created
+Opened database successfully
+Logger destroyed
