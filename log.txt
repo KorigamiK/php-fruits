@@ -1,0 +1,17 @@
+Logger created
+Opened database successfully
+Logger destroyed
+Logger created
+Opened database successfully
+Buying fruit with id: 1
+Logger destroyed
+Logger created
+Opened database successfully
+Logger destroyed
+Logger created
+Opened database successfully
+Adding fruit
+Logger destroyed
+Logger created
+Opened database successfully
+Logger destroyed
