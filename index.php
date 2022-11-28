@@ -3,11 +3,9 @@
 <?php include 'app.php'; ?>
 
 <html>
-
 <head>
     <title>Fruit Shop</title>
 </head>
-
 <body>
     <h1> Shop Fruits </h1>
     <form action="/api/add.php" method="post">
@@ -36,8 +34,5 @@
         }
         ?>
     </table>
-
-
 </body>
-
 </html>
